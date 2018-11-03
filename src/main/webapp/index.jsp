@@ -6,7 +6,6 @@
 <%
         InetAddress ia = InetAddress.getLocalHost();
         out.println("<!-- hostname  " + ia.toString()+  " -->");
-        pageContext.setAttribute("node", node);
  %>
 </body>
 </html>
