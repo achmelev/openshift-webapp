@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Alexei Sandbox - Version 7</h2>
+<h2>Alexei Sandbox - Version 8</h2>
 <h3> The Host Info:</h3>
 <%@ page import = "java.net.InetAddress" %>
 <%
