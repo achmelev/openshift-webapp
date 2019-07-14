@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Build branch: ${BUILD.SOURCE_BRANCH}"
+echo "Build branch: ${BUILD_SOURCEBRANCH}"
