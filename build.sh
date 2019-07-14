@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World"
+echo "Build branch: ${BUILD.SOURCE_BRANCH}"
