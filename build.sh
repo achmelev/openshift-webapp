@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Build branch: ${BUILD_SOURCEBRANCH}"
+echo "Build Number: ${BUILD_BUILDNUMBER}"
